@@ -51,4 +51,4 @@ print(kxy)
 
 
 
-You can get the kernel for $y$ in the same way.
+You can get the kernel for *y* in the same way.
